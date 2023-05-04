@@ -1,24 +1,3 @@
 {
-  "users":[
-    {
-      "name":"Shivkant Dubey",
-      "email":"shivkant1908@gmail.com",
-      "password":"Dubey4808@"
-    },
-    {
-      "name":"Rahul Kumar",
-      "email":"rahul@gmail.com",
-      "password":"Rahul2004@"
-    },
-    {
-      "name":"Rahul Mishra",
-      "email":"mishra@gmail.com",
-      "password":"Mishra1308@"
-    },
-    {
-      "name":"Rishi Kant Dubey",
-      "email":"rishi@gmail.com",
-      "password":"Rishi1308@"
-    }
-  ]
+  "users":[]
 }
